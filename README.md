@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Mizuki 
 <img align='right' src='logo.png' width='200px' alt="Mizuki logo">
 
@@ -367,3 +368,6 @@ Thanks to all contributors for their contributions to this project. If you have 
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+=======
+# Mizuki-blog
+>>>>>>> 0de5fe9f1b5c025775117b6b6d6cc84020b0b4ad
